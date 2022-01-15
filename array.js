@@ -106,16 +106,4 @@ for (var i = 0; i < arrr.length; i++){
         console.log("Data is not found")
         
     }
-
-
 }
-
-
-
-
-
-
-
-
-
-        //   Multi Dimensional array
